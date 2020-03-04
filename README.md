@@ -20,3 +20,6 @@ C:\> echo %PATH:;=&echo.%
 #### Add To Windows PATH
 C:\> path => 
 
+#### Comandos PIP
+pip freeze
+pip list

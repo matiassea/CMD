@@ -22,4 +22,5 @@ C:\> path =>
 
 #### Comandos PIP
 pip freeze
+
 pip list

@@ -26,7 +26,9 @@ C:\> path =>
 
 netsh wlan show networks mode=bssid
 
-netsh wlan show profile => muestra los perfiles wifi guardados en nuestra PC
+netsh wlan show profiles => muestra los perfiles wifi guardados en nuestra PC
+
+netsh wlan show profiles [Name Red] key=clear => muestra los perfiles wifi guardados en nuestra PC
 
 nslookup www.facebook.com => muestra la ip de la pagnia web
 

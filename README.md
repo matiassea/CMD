@@ -21,6 +21,12 @@ C:\> echo %PATH% => Entrega el path de "enviroment variable"
 
 C:\> echo %PATH:;=&echo.%
 
+echo %PATH:;=&echo.% => Imprimir actual Path
+set PATH=%PATH%;LOREA => Agrega al Path Lorea 
+set => Muestra configuracion actual
+https://stackoverflow.com/questions/9546324/adding-a-directory-to-the-path-environment-variable-in-windows
+
+
 #### Add To Windows PATH
 C:\> path =>
 
